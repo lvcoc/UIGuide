@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UIguide", "UIguide.csproj", "{4778E429-18E2-196F-195C-4A0BCE2BB201}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UIguide.Editor", "UIguide.Editor.csproj", "{2B817693-055D-C56D-62E1-35DC93F993B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4778E429-18E2-196F-195C-4A0BCE2BB201}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4778E429-18E2-196F-195C-4A0BCE2BB201}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4778E429-18E2-196F-195C-4A0BCE2BB201}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4778E429-18E2-196F-195C-4A0BCE2BB201}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B817693-055D-C56D-62E1-35DC93F993B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B817693-055D-C56D-62E1-35DC93F993B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B817693-055D-C56D-62E1-35DC93F993B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B817693-055D-C56D-62E1-35DC93F993B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
